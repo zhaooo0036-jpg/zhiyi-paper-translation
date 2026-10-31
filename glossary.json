@@ -1,0 +1,365 @@
+{
+  "a_posteriori": {
+    "en": "a posteriori",
+    "zh": "后验"
+  },
+  "a_priori": {
+    "en": "a priori",
+    "zh": "先验"
+  },
+  "ablation": {
+    "en": "ablation study",
+    "zh": "消融实验"
+  },
+  "affinity_matrix": {
+    "en": "affinity matrix",
+    "zh": "亲和矩阵"
+  },
+  "anchor": {
+    "en": "anchor",
+    "zh": "锚框"
+  },
+  "aos": {
+    "abbr": "AOS",
+    "en": "average orientation similarity (AOS)",
+    "zh": "平均朝向相似度"
+  },
+  "ap": {
+    "abbr": "AP",
+    "en": "average precision (AP)",
+    "zh": "平均精度"
+  },
+  "backbone": {
+    "en": "backbone",
+    "zh": "骨干网络"
+  },
+  "batch": {
+    "en": "batch",
+    "zh": "批处理"
+  },
+  "batch_norm": {
+    "en": "batch normalization",
+    "zh": "批归一化"
+  },
+  "binning": {
+    "en": "binning",
+    "zh": "分箱"
+  },
+  "bipartite_matching": {
+    "en": "bipartite graph matching",
+    "zh": "二部图匹配"
+  },
+  "bird_eye_view": {
+    "abbr": "BEV",
+    "en": "bird's eye view (BEV)",
+    "zh": "鸟瞰图"
+  },
+  "bounding_box": {
+    "en": "bounding box",
+    "zh": "边界框"
+  },
+  "constant_velocity": {
+    "en": "constant velocity model",
+    "zh": "匀速模型"
+  },
+  "convolution": {
+    "en": "convolution",
+    "zh": "卷积"
+  },
+  "cost_matrix": {
+    "en": "cost matrix",
+    "zh": "代价矩阵"
+  },
+  "covariance": {
+    "en": "covariance",
+    "zh": "协方差"
+  },
+  "data_association": {
+    "en": "data association",
+    "zh": "数据关联"
+  },
+  "data_augmentation": {
+    "en": "data augmentation",
+    "zh": "数据增广"
+  },
+  "detection_head": {
+    "en": "detection head",
+    "zh": "检测头"
+  },
+  "detection_precision": {
+    "en": "detection precision",
+    "zh": "检测精确率"
+  },
+  "detection_recall": {
+    "en": "detection recall",
+    "zh": "检测召回率"
+  },
+  "discrete_time": {
+    "en": "discrete-time",
+    "zh": "离散时间"
+  },
+  "ekf": {
+    "abbr": "EKF",
+    "en": "extended Kalman filter (EKF)",
+    "zh": "扩展卡尔曼滤波"
+  },
+  "encoder": {
+    "en": "encoder",
+    "zh": "编码器"
+  },
+  "estimate": {
+    "en": "estimate",
+    "zh": "估计"
+  },
+  "expected_value": {
+    "en": "expected value",
+    "zh": "期望值"
+  },
+  "false_negative": {
+    "en": "false negative",
+    "zh": "漏检"
+  },
+  "false_positive": {
+    "en": "false positive",
+    "zh": "误检"
+  },
+  "feature_pyramid": {
+    "en": "feature pyramid",
+    "zh": "特征金字塔"
+  },
+  "focal_loss": {
+    "en": "focal loss",
+    "zh": "焦点损失"
+  },
+  "gain": {
+    "en": "gain",
+    "zh": "增益"
+  },
+  "ground_truth": {
+    "en": "ground truth",
+    "zh": "真值"
+  },
+  "hungarian": {
+    "en": "Hungarian algorithm",
+    "zh": "匈牙利算法"
+  },
+  "id_switch": {
+    "en": "identity switch",
+    "zh": "身份切换"
+  },
+  "inference": {
+    "en": "inference",
+    "zh": "推理"
+  },
+  "iou": {
+    "abbr": "IoU",
+    "en": "intersection over union (IoU)",
+    "zh": "交并比"
+  },
+  "jacobian": {
+    "en": "Jacobian matrix",
+    "zh": "雅可比矩阵"
+  },
+  "jpda": {
+    "abbr": "JPDA",
+    "en": "joint probabilistic data association (JPDA)",
+    "zh": "联合概率数据关联"
+  },
+  "kalman_filter": {
+    "en": "Kalman filter",
+    "zh": "卡尔曼滤波"
+  },
+  "kalman_gain": {
+    "en": "Kalman gain",
+    "zh": "卡尔曼增益"
+  },
+  "least_squares": {
+    "en": "least squares",
+    "zh": "最小二乘"
+  },
+  "lidar": {
+    "en": "lidar",
+    "zh": "激光雷达"
+  },
+  "linearization": {
+    "en": "linearization",
+    "zh": "线性化"
+  },
+  "map": {
+    "abbr": "mAP",
+    "en": "mean average precision (mAP)",
+    "zh": "平均精度均值"
+  },
+  "mean": {
+    "en": "mean",
+    "zh": "均值"
+  },
+  "measurement": {
+    "en": "measurement",
+    "zh": "量测"
+  },
+  "measurement_noise": {
+    "en": "measurement noise",
+    "zh": "量测噪声"
+  },
+  "measurement_update": {
+    "en": "measurement update",
+    "zh": "量测更新"
+  },
+  "mht": {
+    "abbr": "MHT",
+    "en": "multiple hypothesis tracking (MHT)",
+    "zh": "多假设跟踪"
+  },
+  "mot": {
+    "abbr": "MOT",
+    "en": "multiple object tracking (MOT)",
+    "zh": "多目标跟踪"
+  },
+  "mota": {
+    "abbr": "MOTA",
+    "en": "multi-object tracking accuracy (MOTA)",
+    "zh": "多目标跟踪准确度"
+  },
+  "motp": {
+    "abbr": "MOTP",
+    "en": "multi-object tracking precision (MOTP)",
+    "note": "以定位误差度量",
+    "zh": "多目标跟踪精确度"
+  },
+  "nms": {
+    "abbr": "NMS",
+    "en": "non-maximum suppression (NMS)",
+    "zh": "非极大值抑制"
+  },
+  "normal_distribution": {
+    "en": "normal distribution",
+    "zh": "正态分布"
+  },
+  "occlusion": {
+    "en": "occlusion",
+    "zh": "遮挡"
+  },
+  "online": {
+    "en": "online",
+    "zh": "在线"
+  },
+  "optimal": {
+    "en": "optimal",
+    "zh": "最优"
+  },
+  "pillar": {
+    "en": "pillar",
+    "note": "指点云在 x-y 平面上划分出的垂直柱状单元",
+    "zh": "柱"
+  },
+  "pixel": {
+    "en": "pixel",
+    "zh": "像素"
+  },
+  "point_cloud": {
+    "en": "point cloud",
+    "zh": "点云"
+  },
+  "point_net": {
+    "en": "PointNet",
+    "note": "直接学习无序点集特征的点网络",
+    "zh": "PointNet"
+  },
+  "process_noise": {
+    "en": "process noise",
+    "zh": "过程噪声"
+  },
+  "pseudo_image": {
+    "en": "pseudo-image",
+    "zh": "伪图像"
+  },
+  "random_variable": {
+    "en": "random variable",
+    "zh": "随机变量"
+  },
+  "recursive": {
+    "en": "recursive",
+    "zh": "递推"
+  },
+  "reflectance": {
+    "en": "reflectance",
+    "zh": "反射率"
+  },
+  "region_proposal": {
+    "en": "region proposal",
+    "zh": "区域提议"
+  },
+  "reid": {
+    "en": "re-identification",
+    "zh": "重识别"
+  },
+  "resolution": {
+    "en": "resolution",
+    "zh": "分辨率"
+  },
+  "runtime": {
+    "en": "runtime",
+    "zh": "运行时间"
+  },
+  "single_stage": {
+    "en": "single-stage",
+    "zh": "单阶段"
+  },
+  "smooth_l1": {
+    "en": "smooth L1 loss",
+    "zh": "平滑 L1 损失"
+  },
+  "sparse": {
+    "en": "sparse",
+    "zh": "稀疏"
+  },
+  "state": {
+    "en": "state",
+    "zh": "状态"
+  },
+  "taylor": {
+    "en": "Taylor series",
+    "zh": "泰勒级数"
+  },
+  "time_update": {
+    "en": "time update",
+    "zh": "时间更新"
+  },
+  "track": {
+    "en": "track",
+    "zh": "轨迹"
+  },
+  "tracking_by_detection": {
+    "en": "tracking-by-detection",
+    "zh": "基于检测的跟踪"
+  },
+  "tracklet": {
+    "en": "tracklet",
+    "zh": "轨迹片段"
+  },
+  "transposed_conv": {
+    "en": "transposed convolution",
+    "zh": "转置卷积"
+  },
+  "two_stage": {
+    "en": "two-stage",
+    "zh": "两阶段"
+  },
+  "uncertainty": {
+    "en": "uncertainty",
+    "zh": "不确定性"
+  },
+  "variance": {
+    "en": "variance",
+    "zh": "方差"
+  },
+  "voxel": {
+    "en": "voxel",
+    "zh": "体素"
+  },
+  "white_noise": {
+    "en": "white noise",
+    "zh": "白噪声"
+  }
+}
